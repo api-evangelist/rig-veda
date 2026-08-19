@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/rig-veda.p
 name: Rig Veda
 description: "Gods and poets, their categories, and the verse meters, with the mandal and sukta number"
 url: https://aninditabasu.github.io/indica/html/rv.html
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
