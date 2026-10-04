@@ -39,7 +39,6 @@ apis:
   - name: Rig Veda
     description: "Gods and poets, their categories, and the verse meters, with the mandal and sukta number"
     humanURL: https://aninditabasu.github.io/indica/html/rv.html
-    baseURL: https://aninditabasu.github.io/indica/html/rv.html
     tags:
       - Books
     properties:
